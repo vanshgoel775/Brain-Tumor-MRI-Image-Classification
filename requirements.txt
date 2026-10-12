@@ -1,0 +1,18 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+scikit-image>=0.21
+pillow>=10.0
+matplotlib>=3.7
+seaborn>=0.13
+
+# Deep learning (works with TF 2.13 - 2.19; TF >= 2.16 ships Keras 3, which still saves/loads .h5)
+tensorflow>=2.13
+
+# Web app
+streamlit>=1.40
+
+# Tests
+pytest>=7.0

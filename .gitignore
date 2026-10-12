@@ -1,0 +1,8 @@
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+trained_models.zip
+# Trained weights can exceed GitHub's 100 MB file limit (ResNet50V2). Use Git LFS or a Release.
+models/*.h5
+models/*.keras

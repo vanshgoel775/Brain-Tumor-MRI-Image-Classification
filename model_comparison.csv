@@ -1,0 +1,2 @@
+model,params_M,size_MB,latency_ms,accuracy,acc_ci_low,acc_ci_high,precision,recall,f1
+mobilenetv2,2.59,26.7,106.0,0.8653,0.8255,0.8972,0.8641,0.8569,0.8569
